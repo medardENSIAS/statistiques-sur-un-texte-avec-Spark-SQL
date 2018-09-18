@@ -1,6 +1,6 @@
 # statistiques-sur-un-texte-avec-Spark-SQL
 
-Cette partie est la première partie de projet de reconnaissance  de sentiments sur Tweeter 
+Cette projet est la première partie de projet d'étude  de sentiments sur Tweeter 
 
 réaliser des statistiques sur la fréquence d'utilisation des mots dans un texte
 
